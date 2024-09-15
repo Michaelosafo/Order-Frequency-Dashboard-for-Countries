@@ -1,12 +1,12 @@
-Order Frequency Dashboard
+# Order Frequency Dashboard
 
 
-Problem Statement
+## Problem Statement
 
 Online retailers struggle to analyze order frequency and sales data across various products, categories, and countries.
 
 
-Insights
+## Insights
 
 This dashboard provides actionable insights into:
 
@@ -18,7 +18,7 @@ This dashboard provides actionable insights into:
 - Monthly sales trends
 
 
-Data Description
+## Data Description
 
 
 | Field Name | Data Type | Description |
@@ -31,10 +31,10 @@ Data Description
 | Country | String | Country where the order was placed (e.g., USA, Canada) |
 
 
-Dashboard Components
+## Dashboard Components
 
 
-One-Dimensional Pivot Table
+## One-Dimensional Pivot Table
 
 - Line Chart: Monthly Orders by Product
     - Highest: Banana (71 orders)
@@ -48,7 +48,7 @@ One-Dimensional Pivot Table
     - Highest: May ($303,339)
 
 
-Two-Dimensional Pivot Table
+## Two-Dimensional Pivot Table
 
 - Column Chart: Orders by Category
     - Banana (Fruits): $340,295
@@ -66,7 +66,7 @@ Two-Dimensional Pivot Table
     - Vegetables: Germany (20)
 
 
-Features
+## Features
 
 - Interactive pivot tables for dynamic data analysis
 - Visualizations for monthly orders, total sales, product categories, country orders, and monthly sales
@@ -77,7 +77,4 @@ Features
 Compatibility
 
 - Excel version: 2013+
-
-
-
 
