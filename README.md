@@ -1,6 +1,5 @@
 
-![one diment](https://github.com/user-attachments/assets/2dcbdda6-dc37-40a7-ac27-03aaa5755ea5)
-
+![Screenshot 2024-11-28 064815](https://github.com/user-attachments/assets/ee22f201-ccb8-4dc4-baa4-00bcc9c41749)
 ![chart](https://github.com/user-attachments/assets/4c6e959a-8a56-4f8c-abf5-d92d25a68f3a)
 
 
