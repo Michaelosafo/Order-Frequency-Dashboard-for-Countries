@@ -1,4 +1,6 @@
 
+![one diment](https://github.com/user-attachments/assets/2dcbdda6-dc37-40a7-ac27-03aaa5755ea5)
+
 ![chart](https://github.com/user-attachments/assets/4c6e959a-8a56-4f8c-abf5-d92d25a68f3a)
 
 
