@@ -1,6 +1,9 @@
 
 ![Screenshot 2024-11-28 061326](https://github.com/user-attachments/assets/b97b0c82-9f56-4867-880a-afd8d97fda60)
 
+![Screenshot 2024-11-28 061404](https://github.com/user-attachments/assets/5c15022d-8e0a-49e0-b1ed-d33ce17fe454)
+![Screenshot 2024-11-28 061451](https://github.com/user-attachments/assets/6cebefce-d64e-41cb-9f23-fdd649115985)![Screenshot 2024-11-28 061513](https://github.com/user-attachments/assets/5590ed1a-38ad-40d3-b9da-8de235d880a6)
+
 
 # Order Frequency Dashboard
 
