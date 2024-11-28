@@ -1,10 +1,10 @@
 # Order Frequency Dashboard
 
-## ONE DIMENTIONAL DASHBOARD
+#### ONE DIMENTIONAL DASHBOARD
 
 ![ONE DI](https://github.com/user-attachments/assets/e330d959-f307-473e-9e0c-35f18edc40f1)
 
-## TWO DIMENTIONAL DASHBOARD
+#### TWO DIMENTIONAL DASHBOARD
 
 ![TWO DI](https://github.com/user-attachments/assets/9f65879a-cbd0-490c-98e4-99abb6810e93)
 
