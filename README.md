@@ -1,9 +1,10 @@
 # ONE DIMENTIONAL TABLE 
-![Screenshot 2024-11-28 064815](https://github.com/user-attachments/assets/ee22f201-ccb8-4dc4-baa4-00bcc9c41749)
+
+![ONE DI](https://github.com/user-attachments/assets/e330d959-f307-473e-9e0c-35f18edc40f1)
 
 # TWO DIMENTIONAL TABLE
-![chart](https://github.com/user-attachments/assets/4c6e959a-8a56-4f8c-abf5-d92d25a68f3a)
 
+![TWO DI](https://github.com/user-attachments/assets/9f65879a-cbd0-490c-98e4-99abb6810e93)
 
 # Order Frequency Dashboard
 
