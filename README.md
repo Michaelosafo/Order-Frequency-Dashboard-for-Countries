@@ -1,12 +1,13 @@
 # Order Frequency Dashboard
 
 #### ONE DIMENTIONAL DASHBOARD
+![one di excel](https://github.com/user-attachments/assets/84784d75-6c97-425d-a219-420496e4748c)
 
-![ONE DI](https://github.com/user-attachments/assets/e330d959-f307-473e-9e0c-35f18edc40f1)
+
 
 #### TWO DIMENTIONAL DASHBOARD
 
-![TWO DI](https://github.com/user-attachments/assets/9f65879a-cbd0-490c-98e4-99abb6810e93)
+![2 dim](https://github.com/user-attachments/assets/cc4da358-bd32-495b-88e7-3c0ba267a6d9)
 
 
 
